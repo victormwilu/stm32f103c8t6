@@ -1,2 +1,2 @@
-# my_computer
-building a modern computer from scratch
+# stm32f103c8t6
+`Microcontroller Projects` that use Blue Pill board.
