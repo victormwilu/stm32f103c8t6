@@ -1,0 +1,9 @@
+hse/
+hsi/
+libopencm3/
+Makefile
+Makefile.incl
+mco_pll2/
+rtos/
+*.ld
+uart/
